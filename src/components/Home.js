@@ -3,7 +3,9 @@ import image from "../Home.jpg";
 
 export default function Home() {
   return (
+    
     <main>
+      <title>Shashwat</title>
       <img
         src={image}
         alt="3d-Render"
